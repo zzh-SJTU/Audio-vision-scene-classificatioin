@@ -18,4 +18,4 @@ run the following command to conduct LSTM (mid fusion).
        python train_only.py
        
 # Results
-![image]:
+![image]:(https://github.com/zzh-SJTU/Audio-vision-scene-classificatioin/blob/main/cm.png)
