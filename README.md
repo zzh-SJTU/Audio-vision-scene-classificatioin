@@ -16,3 +16,6 @@ run the following command to conduct late fusion of audio and video feature (dec
 run the following command to conduct LSTM (mid fusion).
 
        python train_only.py
+       
+# Results
+![image]:
